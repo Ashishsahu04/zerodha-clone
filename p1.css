@@ -1,0 +1,48 @@
+h1{
+    font-family:sans-serif;
+    font-weight: 100;
+    color: rgb(104, 91, 91);
+}
+button{
+    background-color:rgb(77, 77, 174);
+    color:white;
+    padding:10px;
+    border-radius:5px;
+    margin-top: 20px;
+    width: 200px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 150;
+    border: none;
+}
+button:hover{
+    background-color:brown;
+}
+a{
+    display:flex;
+    display:inline-block;
+    text-decoration:none;
+    color:turquoise;
+    margin: 0px 20px;
+}
+#a1{
+    text-decoration:none;
+    color:white;
+}
+#logo{
+    margin: 1px 75px;
+
+}
+nav{
+    display:flex;
+    justify-content: right;
+    margin-right: 150px;
+    margin-top: 25px;
+}
+#c-img{
+    margin: 10px 0px;
+}
+p{
+    font-family: sans-serif;
+    color: rgb(119, 116, 116);
+}
